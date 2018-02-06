@@ -3,3 +3,4 @@ def my_each(array)
   while n < 10
     yield(array[n])
 end
+end
